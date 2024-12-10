@@ -102,7 +102,6 @@ Project Link: [[https://github.com/your_username/repo_name](https://github.com/L
 
 ## Acknowledgements
 
-You can acknowledge any individual, group, institution or service.
 * [Moringa School](https://moringaschool.com/)
 * [Yahoo Finance](https://finance.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAGc1pxKo3NqRvx4x83PEljG3LG-097MMsoJe4zngxK1UPYZfQ1VKGG5L7Oo01prT_oot-K8F4rdmAedbPpMPRRyi_bZ3CbPDUBbEZChQJmmGEZk1J_FQcN41qiHU3FsDyhfKby335UfwaLwZr83Z2vpN1D0VAsMuyB4JLXTB6xt_)
 
