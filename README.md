@@ -35,14 +35,14 @@
 
 ## About The Project
 
-A hedge fund that trades on markets all over the world seeks a model they can add to their trading arsenal. Specifically, they want a model that will help them decide when to open and close their long term swing trades i.e trades that span between a few days to years. By taking in information as it comes in daily, the model should be able to analyse market sentiment and predict market movement the following day - Bullish or Bearish.
+A hedge fund that trades on markets all over the world seeks a model they can add to their trading arsenal. Specifically, they want a model that will help them decide when to open and close their long term swing trades i.e trades that span between a few days to years. By taking in information, as it comes in daily, the model should be able to analyse market sentiment and predict market movement the following day - Bullish or Bearish.
 It can be used for any asset traded in a stock exchange given there is data of at least 5 days prior.
 If the prediction is bullish for the following day output is 1 if bearish output is 0.
 The dataset used is sp500 and is sourced from yfinance(yahoo finance).
 
 [Stock Price movement classification using Logistic regression and decision trees](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)
 
-The model has a very high recall score (97%) and a fairly high f1 score (69%) which is encouraging. With an overall accuracy score of 55%, there is still more work to be done like further feature engineering and inclusion of more features perhaps from a fundamental analysis perspective.
+The model has a very high recall score (97%) and a fairly high f1 score (69%) which is satisfactory but not perfect. With an overall accuracy score of 55%, there is still more work to be done like further feature engineering and inclusion of more features perhaps from a fundamental analysis perspective.
 
 
 
