@@ -27,7 +27,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#authors">Authors</a></li>
+    <li><a href="#author">Authors</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -89,13 +89,15 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License.
 
 
-## Authors
+## Author
 
 Name- Gichuhi Levis Kimani
-Email- gichuhilevis0@gmail.com 
-LinkedIn- [@Levis Gichuhi]((https://www.linkedin.com/in/levis-gichuhi-669a46320/)
 
-Project Link: [[https://github.com/your_username/repo_name](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)
+Email- gichuhilevis0@gmail.com
+
+LinkedIn- [@Levis Gichuhi](https://www.linkedin.com/in/levis-gichuhi-669a46320/)
+
+Project Link: [[https://github.com/your_username/repo_name](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)]
 
 
 ## Acknowledgements
