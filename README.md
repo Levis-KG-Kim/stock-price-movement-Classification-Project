@@ -91,9 +91,9 @@ Distributed under the MIT License.
 
 ## Authors
 
-Name- Gichuhi Levis Kimani - [@Levis Gichuhi]((https://www.linkedin.com/in/levis-gichuhi-669a46320/)
-Email- gichuhilevis0@gmail.com
-linkedIn- 
+Name- Gichuhi Levis Kimani
+Email- gichuhilevis0@gmail.com 
+LinkedIn- [@Levis Gichuhi]((https://www.linkedin.com/in/levis-gichuhi-669a46320/)
 
 Project Link: [[https://github.com/your_username/repo_name](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)
 
