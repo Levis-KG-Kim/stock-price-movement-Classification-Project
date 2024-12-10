@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project">
-    <img src="images/line.png" alt="Logo" width="150" height="150">
+    <img src="line.jpg" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Stock Market Prediction using Classification Models</h3>
@@ -90,11 +90,11 @@ Distributed under the MIT License.
 
 ## Authors
 
-Name- Gichuhi Levis Kimani - [@your_twitter](https://twitter.com/your_username) 
+Name- Gichuhi Levis Kimani - [@Levis Gichuhi]((https://www.linkedin.com/in/levis-gichuhi-669a46320/)
 Email- gichuhilevis0@gmail.com
 linkedIn- 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [[https://github.com/your_username/repo_name](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)
 
 
 ## Acknowledgements
