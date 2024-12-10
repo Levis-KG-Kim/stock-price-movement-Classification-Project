@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project">
-    <img src="line.jpg" alt="Logo" width="300" height="250">
+    <img src="line.jpg" alt="Logo" width="350" height="300">
   </a>
 
   <h2 align="center">Stock Market Prediction using Machine Learning Classification Models</h2>
@@ -42,7 +42,7 @@ The dataset used is sp500 and is sourced from yfinance(yahoo finance).
 
 [Stock Price movement classification using Logistic regression and decision trees](https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project)
 
-You can include tables or images to summarize your results when and if appropriate.
+The model has a very high recall score (97%) and a fairly high f1 score (69%) which is encouraging. With an overall accuracy score of 55%, there is still more work to be done like further feature engineering and inclusion of more features perhaps from a fundamental analysis perspective.
 
 
 
