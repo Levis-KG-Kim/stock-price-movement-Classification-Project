@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Levis-KG-Kim/stock-price-movement-Classification-Project">
-    <img src="line.jpg" alt="Logo" width="350" height="300">
+    <img src="line.jpg" alt="Logo" width="350" height="250">
   </a>
 
   <h2 align="center">Stock Market Prediction using Machine Learning Classification Models</h2>
