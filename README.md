@@ -5,7 +5,8 @@
     <img src="line.jpg" alt="Logo" width="300" height="250">
   </a>
 
-  <h3 align="center">Stock Market Prediction using Classification Models</h3>
+  <h2 align="center">Stock Market Prediction using Machine Learning Classification Models</h2>
+  <h3 align="center">Logistic Regression & Decision Trees</h3>
 
 </p>
 
